@@ -164,6 +164,7 @@ objetoProducto.calcularPrecioDescuento = function () {
 return objetoProducto;
 }
 
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    crearGato,
